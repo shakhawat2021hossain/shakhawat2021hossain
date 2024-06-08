@@ -1,5 +1,10 @@
+<div>
+  <img src='https://i.ibb.co/Khf8fyD/Black-and-White-Gradient-Personal-Linked-In-Banner.jpg'>
+</div>
 <h1 align="center">Hi 👋, I'm Shakhawat Hossain</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
+
+- 👨‍💻 All of my projects are available at [https://shakhawat-hossain-web.netlify.app/](https://shakhawat-hossain-web.netlify.app/)
 
 - 💬 Ask me about **Javascript, react.js, MongoDB, Express.js, python, c**
 
