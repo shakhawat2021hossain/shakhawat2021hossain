@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **shakhawat.hossain.web@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NFU8qAxwn3_1uviDXirE9ixj-eoAWW5q/view](https://drive.google.com/file/d/1NFU8qAxwn3_1uviDXirE9ixj-eoAWW5q/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1T5K7HwUYohByUZuzMKCzbeycTJ5u9oy0/view?usp=sharing](https://drive.google.com/file/d/1T5K7HwUYohByUZuzMKCzbeycTJ5u9oy0/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
