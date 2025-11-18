@@ -1,5 +1,5 @@
 <div>
-  <img src='https://i.ibb.co/Khf8fyD/Black-and-White-Gradient-Personal-Linked-In-Banner.jpg'>
+  <img src='[https://i.ibb.co/Khf8fyD/Black-and-White-Gradient-Personal-Linked-In-Banner.jpg](https://i.ibb.co.com/d4wCHyBY/shakhawat-cover.png)'>
 </div>
 
 
