@@ -16,9 +16,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Shakhawat Hossain</h1>
-<h3 align="center">A passionate Full Stack Web Developer</h3>
-
-
+<h3 align="center">I specialize in building modern frontends with React and Next.js, backed by scalable backend systems.
+Focused on performance, clean architecture, and real-world problem solving.</h3>
 
 
 
