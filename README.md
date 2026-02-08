@@ -18,13 +18,7 @@
 <h1 align="center">Hi 👋, I'm Shakhawat Hossain</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://shakhawat-hossain-web.netlify.app/](https://shakhawat-hossain-web.netlify.app/)
 
-- 💬 Ask me about **Typescript, react.js, MongoDB, Express.js, Prisma, NodeJS, ShadCN**
-
-- 📫 How to reach me **shakhawat.hossain.web@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1T5K7HwUYohByUZuzMKCzbeycTJ5u9oy0/view](https://drive.google.com/file/d/1T5K7HwUYohByUZuzMKCzbeycTJ5u9oy0/view)
 
 
 
